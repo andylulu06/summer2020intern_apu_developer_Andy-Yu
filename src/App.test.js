@@ -7,5 +7,10 @@ test('renders learn react link', () => {
   const linkElement = getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+<<<<<<< HEAD
 
 //this is new branch
+=======
+
+//Upstream here
+>>>>>>> upstream/master
