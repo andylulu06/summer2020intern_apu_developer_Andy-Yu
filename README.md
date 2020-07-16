@@ -1,8 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Notification!!!
-Since the node_modules files is too heavy for the github,
-i decide to upload the entire folder except the node_modules.
 I used Mern stack for the project but work mostly on nodejs and reactjs.
 I admit that this project is incompleted on backend side and database,
 some of the backend code is not fully functioning.
