@@ -11,11 +11,6 @@ To run the website
 npx create-react-app my-app
 cd my-app
 npm start
-3. Before npm start
-run npm install on terminal 
-and install all of the dependencies
-which able to refer from package.json files
-
 
 ## Available Scripts
 
